@@ -1,0 +1,2 @@
+# chronic-disease-prediction-using-machine-learning
+This project focuses on chronic disease prediction using machine learning, integrating advanced data preprocessing techniques to handle data quality challenges that impact prediction accuracy. Chronic diseases such as diabetes, hypertension, cancer, and cardiovascular conditions require effective early detection to facilitate timely intervention.
